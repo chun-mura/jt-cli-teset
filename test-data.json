@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "items": [
+    {"name": "Apple", "price": 1.50, "category": "fruit"},
+    {"name": "Banana", "price": 0.80, "category": "fruit"},
+    {"name": "Carrot", "price": 2.00, "category": "vegetable"}
+  ]
+}

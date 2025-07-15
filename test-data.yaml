@@ -1,0 +1,9 @@
+name: Jane Smith
+age: 25
+items:
+  - name: Orange
+    price: 1.20
+    category: fruit
+  - name: Lettuce
+    price: 0.90
+    category: vegetable

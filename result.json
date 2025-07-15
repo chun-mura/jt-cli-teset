@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple",
+    "price": 1.5,
+    "category": "fruit"
+  },
+  {
+    "name": "Banana",
+    "price": 0.8,
+    "category": "fruit"
+  },
+  {
+    "name": "Carrot",
+    "price": 2,
+    "category": "vegetable"
+  }
+]
