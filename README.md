@@ -1,3 +1,6 @@
+# Reference
+https://dev.classmethod.jp/articles/made-oss-jt-poweredby-claude-code/
+
 # jt-cli-test
 
 A powerful CLI tool for querying and transforming JSON data using JSONata expressions.
